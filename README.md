@@ -29,14 +29,15 @@ Atributos: sobregiro (permite que el saldo de la cuenta sea negativo).
 
 # - Diagrama UML
 
-Puedes encontrar el diagrama UML del sistema en el siguiente enlace: 
+Puedes encontrar el diagrama UML del sistema en el siguiente enlace: https://drive.google.com/file/d/1Ikkg5fQqIrbv3Tmn6n39N4BEJJg-o1QH/view
 
 # - Cobertura de Tests
 
 El proyecto incluye tests unitarios que aseguran un mínimo del 70% de cobertura, para validar el correcto funcionamiento de las funcionalidades principales.
+https://drive.google.com/file/d/1B6AdtW8Yqodvo0huixtU88iCZa16VSYJ/view?usp=drive_link
 
 
 # Instrucciones para Ejecutar el Proyecto
 - Clonar el repositorio:
-git clone : 
+git clone : https://github.com/AntonellaEL/cuentabancaria
 
